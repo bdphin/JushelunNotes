@@ -64,14 +64,14 @@
         <mxCell id="zHf4aaqtQ2s_GUAI4mAl-13" value="初禅&lt;div&gt;顺住分&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="210" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zHf4aaqtQ2s_GUAI4mAl-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="zHf4aaqtQ2s_GUAI4mAl-15">
+        <mxCell id="zHf4aaqtQ2s_GUAI4mAl-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="280" as="sourcePoint" />
+            <mxPoint x="310" y="230" as="sourcePoint" />
             <mxPoint x="310" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zHf4aaqtQ2s_GUAI4mAl-15" value="初禅&lt;div&gt;顺胜进分&lt;/div&gt;&lt;div&gt;顺抉择分&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="210" width="70" height="30" as="geometry" />
+          <mxGeometry x="240" y="190" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zHf4aaqtQ2s_GUAI4mAl-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
